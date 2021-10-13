@@ -1,12 +1,12 @@
 import { html } from 'lit';
 import { fixture, expect } from '@open-wc/testing';
 
-import '../src/my-app.js';
+import '../src/game-chat2.js';
 
-describe('MyApp', () => {
+describe('GameChat2', () => {
   let element;
   beforeEach(async () => {
-    element = await fixture(html`<my-app></my-app>`);
+    element = await fixture(html`<game-chat2></game-chat2>`);
   });
 
   it('renders a h1', () => {
