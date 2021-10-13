@@ -1,0 +1,8 @@
+html {
+    --my-app-primary-color: hsl(40, 100%, 40%);
+    --my-app-dark-color: hsl(40, 100%, 25%);
+    --my-app-light-color: hsl(40, 100%, 80%);
+    --my-app-accent-color: hsl(40, 50%, 10%);
+    --gmy-app-maintext-color: hsl(40, 25%, 25%);
+    --my-app-accenttext-color: hsl(40, 25%, 90%);
+  }
