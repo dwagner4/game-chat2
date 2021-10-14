@@ -1,8 +1,8 @@
 html {
-    --game-chat2-primary-color: hsl(40, 100%, 40%);
-    --game-chat2-dark-color: hsl(40, 100%, 25%);
-    --game-chat2-light-color: hsl(40, 100%, 80%);
-    --game-chat2-accent-color: hsl(40, 50%, 10%);
-    --ggame-chat2-maintext-color: hsl(40, 25%, 25%);
-    --game-chat2-accenttext-color: hsl(40, 25%, 90%);
-  }
+  --game-chat-primary-color: hsl(40, 100%, 40%);
+  --game-chat-dark-color: hsl(40, 100%, 25%);
+  --game-chat-light-color: hsl(40, 100%, 80%);
+  --game-chat-accent-color: hsl(40, 50%, 10%);
+  --ggame-chat-maintext-color: hsl(40, 25%, 25%);
+  --game-chat-accenttext-color: hsl(40, 25%, 90%);
+}

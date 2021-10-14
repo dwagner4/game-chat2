@@ -1,8 +1,8 @@
 {
-  "name": "game-chat2",
-  "description": "Webcomponent game-chat2 following open-wc recommendations",
+  "name": "game-chat",
+  "description": "Webcomponent game-chat following open-wc recommendations",
   "license": "MIT",
-  "author": "game-chat2",
+  "author": "game-chat",
   "version": "0.0.0",
   "scripts": {
     "lint": "eslint --ext .js,.html . --ignore-path .gitignore && prettier \"**/*.js\" --check --ignore-path .gitignore",
